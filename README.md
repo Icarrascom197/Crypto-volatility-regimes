@@ -18,7 +18,7 @@ Typical use cases include:
 
 ## Projects
 
-### Project 1 — Volatility & Directional Signals (BTC)
+### Project 1 — Volatility & Directional Dynamics (BTC)
 - GARCH(1,1) volatility modeling
 - Residual diagnostics and regime identification
 - Illustrative directional signals during low-volatility regimes
@@ -51,4 +51,6 @@ This framework can be adapted to:
 - volatility regimes & event studies
 - correlation and contagion analysis
 
-Short research notes, dashboards, or notebooks can be produced on request.
+Selected components of this framework can be adapted for 
+custom research notes, diagnostics or exploratory studies.
+
